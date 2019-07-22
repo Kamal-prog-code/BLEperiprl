@@ -1,0 +1,4 @@
+#Sat Jul 13 14:31:41 IST 2019
+base.0=C\:\\Users\\19pj163\\Desktop\\BLEperiprl\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
